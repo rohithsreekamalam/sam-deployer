@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=SAM Deployer v2.0
+Comment=tool to deploy SAM projects
+Icon=/opt/samdeployer/icon.png
+Exec=samdeployer
+Terminal=false
+Categories=utility;SAM;AWS;deployment

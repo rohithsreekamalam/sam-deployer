@@ -1,0 +1,13 @@
+SAM DEPLOYER
+----------------
+Author: ROHITH R
+----------------
+
+INSTALL
+-------
+$ sudo sh install.sh
+
+
+UNINSTALL
+---------
+$ sudo sh uninstall.sh
